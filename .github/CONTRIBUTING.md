@@ -10,7 +10,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/TeamYukki/YukkiMusicBot
+   git clone https://github.com/AerodynamicV1Botz/YukkiMusicBot
    ```
 
 2. Use sensible commit messages
